@@ -1,2 +1,14 @@
 # hth-cn-journal
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
